@@ -1,0 +1,36 @@
+GNSS Synchronization & Bistatic Passive Radar (VHDL,C)
+
+Realization of IP cores for the subsystem in charge of synchronizing with a reference GNSS satellite. 
+In collaboration with a research company, named Aster. 
+Working in a team of 3. 
+Project available on Github.
+
+⚫️ Main Activities:
+- Deep understanding of the radar global architecture
+- Study of the synchronizer subsystem architecture
+- Comparison of the different solutions proposed
+- Assignment of tasks to each group member
+- Collaborative development using GIT
+- Designing with Xilinx VIVADO
+- Writing internal documentation with DOXYGEN
+- Linux device drivers development
+- Writing test-benches to test the functional validity
+- Collaboration with other teams for integration
+- Testing activities using Zybo Zynq-7000 SoC boards
+- Project documentation writing
+- Presentation of the advancements to the stakeholders
+
+Thanks to my team contribution, the Aster company reduced times to get a working version of the radar. 
+
+-------------------------------------------------------------------------------------- 
+
+As the final task of "Embedded Systems" course, I took part in a project aiming to produce a bistatic passive radar: a
+system which computes distances from objects employing GNSS systems (Galileo, GPS, and GLONASS). I worked in a team of 3
+students. My team contributed to the subsystem in charge of synchronizing with the reference satellite. In other words,
+this subsystem looks for the best GNSS signal to use as a comparison with the signal bounced from an obstacle in order
+to compute its distance.
+
+In particular, my team realized three IP core. The first takes in input a complex signal with fixed frequency and phase
+and outputs the modulus of that signal. The second IP core takes in input the signal coming from the first IP core and
+confront it with the maximum modulus known so far. The block outputs the value of the maximum module, along with the
+frequency and the phase the modulus referred to. 
