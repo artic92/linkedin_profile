@@ -1,0 +1,12 @@
+Policy-based Authentication & Authorization Service (C)
+
+Development of a solution based on federated identity and attribute-based access control.
+
+⚫️ Main Activities:
+- Analysis of alternative solutions (OpenID, oAuth)
+- Deep understanding of SAML interactions
+- Learning XACML and JAAS syntax fundamentals
+- Design of authorization policies
+- Implementation of policies in XACML
+- Incremental testing
+- Presentation of the work's advancements
