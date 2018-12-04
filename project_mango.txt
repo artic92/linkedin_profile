@@ -1,0 +1,25 @@
+Nu+: a deeply configurable, open-source GPU-like processor core (SystemVerilog)
+
+link: http://www.naplespu.com/doc/index.php?title=Main_Page
+
+Producing technical documentation for the Cache Coherence Subsystem.
+Part of the European project MANGO.
+
+HINT: prova a trovare il WP di riferimento per la documentazione del core nu+.
+
+⚫️ Main activities:
+- Learning SystemVerilog syntax fundamentals
+- Deep understanding of Cache Coherence Subsystem functioning
+- Brainstormings regarding documentation contents
+- Static analysis of source files
+- Aligning existing documentation to the newest advancements
+- Presenting work advancements
+- Producing documentation sections on the newest subsystems
+
+HINT: prova a ricordare di quali subsystems non esisteva una doc prima
+
+---------------------------------------------------------------------------------------------------------------
+During the "Advanced Computer Architecture & GPU programming" class I was asked to write down part of the documentation for the core nu+, an open-source core developed for the H2020 project MANGO. In particular, I wrote the part regarding cache coherence. A deep study of the core implementation files was taken in order to write the documentation.
+
+European project under Horizon2020 funding. In the context of "Advanced Computer Architecture & GPU programming" course.
+
