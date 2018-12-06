@@ -1,0 +1,14 @@
+Triple Modular Redundancy (TMR) Scheme (REALTIME OS,C)
+
+Realization of a TMR scheme in software. Using RTAI real-time OS.
+Project available of Github.
+
+⚫️ Main activities:
+- A deep study of the RTAI API
+- Schedulability assessment 
+- Studying the Worst-Case Execution Time (WCET)
+- Organizing activities within the team
+- Incremental development in C
+- Testing employing faults injection
+- Documentation production
+- Developing demo for showing purposes
