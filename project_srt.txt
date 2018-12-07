@@ -1,4 +1,4 @@
-Triple Modular Redundancy (TMR) Scheme (REALTIME OS,C)
+Triple Modular Redundancy (TMR) Scheme (RTOS,C)
 
 Realization of a TMR scheme in software. Using RTAI real-time OS.
 Project available of Github.

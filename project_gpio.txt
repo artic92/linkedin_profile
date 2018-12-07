@@ -1,0 +1,15 @@
+General-Purpose Input/Output (GPIO) Implementation (C,VHDL)
+
+Implementation of a custom GPIO. Using Xilinx Zynq-7000 ARM/FPGA SoC. 
+Project available on Github.
+
+⚫️ Main activities:
+- Description of the hardware in VHDL
+- Added features to manage interrupts
+- Implemented a custom BSP for the device
+- Implemented a device driver through MMAP
+- Implemented a device driver through UIO
+- Implemented a device driver through a Linux Kernel module
+- Writing internal documentation with DOXYGEN
+- Writing project external documentation
+- Implementing device drivers in MMAP, UIO, and Kernel Module
