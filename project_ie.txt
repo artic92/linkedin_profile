@@ -1,0 +1,11 @@
+Field Failure Data Analysis (FFDA) Log-based (MATLAB)
+
+Dependability analysis of data collected from Mercury and BlueGene/L supercomputers.
+
+⚫️ Main activities:
+- Grouping log entries with a defined coalescence window
+- Computing Dependability parameters (MTTF, MTBF, Availability, Reliability)
+- Fitting the distribution for the reliability (Exponential, Weibull, Hyperexponential)
+- Goodness of fit study with Kolmogorov-Smirnov test
+- Analysis per node and per error category
+- Writing internal documentation
