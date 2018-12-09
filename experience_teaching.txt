@@ -1,0 +1,15 @@
+Graduate Teaching Assistant
+
+Company: Università degli Studi di Napoli Federico II
+Location: School of Computer Engineering
+When: Sep 2017 - Jan 2018
+
+ING-INF/05 - Programming Fundamentals
+MAT/05 - Mathematical Analysis I
+
+➤ Delivered lectures to over 350 students from undergraduate Computer Engineering courses
+➤ Presenting concepts of object-oriented programming and software testing
+➤ Presenting concepts of mathematical analysis 
+➤ Preparing lab materials including assignments, and the final exam
+
+Being a UTA was a transformative experience: I enjoyed mentoring students and giving them tips. As an added perk, I brushed up my own CS fundamentals.
