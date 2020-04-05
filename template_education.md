@@ -1,13 +1,17 @@
 # Education
 
-School name:
-Degree name:
-Field of study:
-Grade:
-Years:
+## School
+
+## Degree
+
+## Field of study
+
+## Period
+
+## Grade
+
+## Activities and societies
 
 ## Description
 
-Main subjects:
-
-Main Topics:
+## External resources
