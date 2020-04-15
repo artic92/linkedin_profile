@@ -16,7 +16,7 @@ Slough, UK
 
 ## Period
 
-May 2019 - now
+May 2019 - May 2020
 
 ## Description
 
@@ -49,7 +49,7 @@ Main activities:
 
 ### Junior Platform Engineer
 
-Jan 2020 - now
+Jan 2020 - May 2020
 
 Joining the Platform Team led by Ganesh Rajkumar.
 
