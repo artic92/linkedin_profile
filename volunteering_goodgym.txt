@@ -1,6 +1,0 @@
-Organization: GoodGym
-Role: Volunteer
-Cause: social services
-When: Jun 2019-present
-
-https://www.goodgym.org/runners/antonio-riccio
