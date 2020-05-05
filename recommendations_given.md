@@ -83,10 +83,6 @@ task, he constantly aims to improve and explore new solutions to a particular
 problem. He is very kind and a great team member. It has been a pleasure working
 with him.
 
-Erasmo la Montagna
-
-Pasquale Tremante
-
 ## Roberto Riccio
 
 I met Roberto when he was working in London. For Roberto, cooking is not just a
@@ -115,3 +111,14 @@ never got upset every time I was going to ask him something. Even if he didn’t
 know the answer, he was always keen to find it, and he was not happy until I got
 my doubts solved. If we would need to thank someone for having saved Ashvtosh’s
 time from trivial questions, that is surely Dave.
+
+## Natalia Grajek
+
+I collaborated with Natalia during one of my recruiting processes. Despite her
+young career, she was capable of managing quite challenging tasks with extensive
+professionalism and attitude. I particularly found truly useful the coaching
+sessions she organised in preparation for the interview with the company. She
+was able to grasp and examine the deepest psychological aspects and suggest
+solutions to get the best out of the candidate. By conveying the right awareness
+and self-confidence, her role has been vital for the successful outcome of the
+interview.
