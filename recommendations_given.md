@@ -94,23 +94,24 @@ in the sector. He is very inspiring. I would warmly recommend him.
 
 ## Ashvtosh Goel
 
-Ashvtosh has been my first line manager at Airspan when I was under the
-Application team. I must recognise in him a great capacity of being always aware
-of the work everyone is doing. Regardless what he is doing, he is always keen to
-answer to each question he is been asked. He is always keen to explain what he
-needs, even if it requires more than one explanation. He is always able to
-simplify what he is explaining, using simpler and clearer words. It has been a
-pleasure and an honour to work for him.
+Ashvtosh has been my direct manager during my experience at Airspan. I remained
+truly amazed by his capacity of being perfectly aware of the activity of each
+member of the team. Regardless of he was doing, Ashvtosh always showed a
+willingness to answer each question he is been asked. I admired his patience and
+professionalism when talking to the team. Even if it required more than one
+explanation, he patiently made sure everybody understood his comments and
+suggestions, using simpler and clearer words if necessary. It has been a
+pleasure and an honour working for him.
 
 ## Dave Bell
 
-Dave’s support has been incredibly vital for me during these first months here
-in Airspan, therefore I think he might deserve a mention. He showed great
-patience explaining me every doubt or question, even more than once, and he
-never got upset every time I was going to ask him something. Even if he didn’t
-know the answer, he was always keen to find it, and he was not happy until I got
-my doubts solved. If we would need to thank someone for having saved Ashvtosh’s
-time from trivial questions, that is surely Dave.
+Dave and I worked in the same team at Airspan. Dave’s support has been
+astonishingly essential during my first months. He showed great patience
+explaining each doubt or question, even more than once, and he never got upset
+every time I was going to ask him something. Even if he didn’t know the answer,
+he was always keen to find it, and he was not happy until I got my doubts
+solved. If we would need to thank someone for having saved my manager's time
+from trivial questions, that is surely Dave.
 
 ## Natalia Grajek
 
