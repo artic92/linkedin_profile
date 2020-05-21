@@ -56,4 +56,4 @@ operations, based on the professional experience of the lecturer.
 
 ### Credentials
 
-<TBD>
+<https://courses.edx.org/certificates/1952c815bf1a48b09b4bdc7e5ec62587>
