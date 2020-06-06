@@ -12,7 +12,7 @@ Specialisation
 
 ## Field of study
 
-Aerospace Engineering | Rocket Science
+Aerospace Engineering | Spacecraft Propulsion
 
 ## Period
 
