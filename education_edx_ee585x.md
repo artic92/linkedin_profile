@@ -12,7 +12,7 @@ Specialisation
 
 ## Field of study
 
-Aerospace Engineering | Orbital Mechanics
+Aerospace Engineering | Astrodynamics
 
 ## Period
 
