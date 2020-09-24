@@ -2,17 +2,14 @@
 
 ## Title
 
-Digital Design Embedded Engineer - Avionics
+Avionics Digital Design Embedded Engineer
 
 ## Company
 
-Evoleo Technologies
+EVOLEO Technologies
 
-EVOLEO Technologies is a Portuguese SME investing in skills related to the
-design of critical and highly complex electronic systems. It provides
-engineering services covering a wide range of needs in the electronics design,
-embedded and systems engineering. EVOLEO embraces five areas of activity: Space,
-Transportation, Energy, Health and Industry.
+EVOLEO Technologies is a Portuguese company focused on design and production of
+electronic components for space applications.
 
 ## Location
 
@@ -24,7 +21,15 @@ May 2020 - now
 
 ## Description
 
-Evoleo Germany Headquarters. Working on ESA PLATO and CHICS projects.
+Evoleo Germany Headquarters.
+
+Design, development, testing and maintenance of digital circuits for FPGA
+platforms.
+
+Activity framed in the context of the ESA PLAnetary Transits and Oscillations of
+stars (PLATO) space telescope. This is the third medium-class mission in the
+European Space Agency - ESA's CosmicVision program primarily aiming to discover
+and characterize rocky extrasolar planets.
 
 ## Impacts
 
