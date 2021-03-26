@@ -125,3 +125,7 @@ ESA PLATO
 What is SAVOIR?
 
 <https://savoir.estec.esa.int/SAVOIROutput.htm>
+
+Link to ASP website for PLATO AEU article:
+
+<https://www.asp-equipment.de/infopages/news/startnews/news/asp-equipment-contributes-to-plato-science-mission/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=edb00b57febcba49794b95ffcbddb683>
