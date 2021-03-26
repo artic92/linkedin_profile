@@ -79,6 +79,8 @@ Main activites:
 
 * improved VHDL code quality by introducing industry-standard methodologies and
   procedures
+  * INTERNAL (for my reference): code versioning, CI with Modelsim, automated
+      Modelsim testsuite, GHDL unit tests
 
 ## Keywords
 
