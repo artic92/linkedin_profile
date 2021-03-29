@@ -2,7 +2,7 @@
 
 ## Title
 
-Software Engineer Internship
+Software Engineer Intern
 
 ## Company
 
@@ -53,7 +53,11 @@ NOTE: so far (02/2020) there is no mention on their website about MMT-IoT, there
 
 ## Keywords
 
-C, GDB, Python, Markdown, Git, Intrusion Detection System (IDS), Deep Packet Inspection (DPI), Signature-based Detection, Project Deliverable, Kafka, Apache Storm, Cooja, Contiki, Internet of Things (IoT), Cyber-Physical System, Cybersecurity, Holistic Security, Simulation, Virtual Machine, Virtualbox, ICMP Flood, SQL injection, tcpdump, Wireshark.
+C, GDB, Python, Markdown, Git, Intrusion Detection System (IDS), IoT, Deep
+Packet Inspection (DPI), Signature-based Detection, Project Deliverable, Kafka,
+Apache Storm, Cooja, Contiki, Internet of Things (IoT), Cyber-Physical System,
+Cybersecurity, Holistic Security, Simulation, Virtual Machine, Virtualbox, ICMP
+Flood, SQL injection, tcpdump, Wireshark.
 
 ## External resources
 
