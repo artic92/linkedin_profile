@@ -77,7 +77,9 @@ Main activities:
 
 ## Keywords
 
-SoC, ARM, FPGA, Freescale, i.MX, Xilinx, Zynq-7000, C/C++, Linux, Bash, Docker, UML, Modelio, Coding Conventions, Jira, Agile methodology, GDB, Unix domain socket, Gerrit, Git, Jenkins, Klockwork, Simulation, 4G LTE, 5G.
+SoC, ARM, FPGA, Freescale, i.MX, Xilinx, Zynq-7000, C/C++, Linux kernel, Bash, Docker,
+UML, Modelio, Coding Conventions, Jira, Agile methodology, GDB, Unix domain
+socket, Gerrit, Git, Jenkins, Klockwork, Simulation, 4G LTE, 5G.
 
 ## External resources
 
