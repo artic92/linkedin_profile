@@ -51,11 +51,12 @@ Main activites:
 * working with SpaceWire RMAP as per ECSS-E-ST-50-52C
 * working with AMBA 3 AHB-Lite specification
 * mentored junior engineers
+* managed code versioning and releasing
 * managed a team of three
 * production of project deliverables
 * production of internal documentation
 * regular meeting and reviews with the customer
-* activities planning within the team
+* day-to-day activities planning
 * digital design for Microsemi RTAX-S/SL radiation-tolerant FPGAs
 * digital design for Microsemi proASIC industrial FPGAs
 * unit and system-level testing
@@ -84,9 +85,10 @@ Main activites:
 
 ## Keywords
 
-ECSS, VHDL, OBC, COTS, Xilinx, Microsemi, FPGA, MPSoC, SoC, Xilinx Vivado,
-Microsemi Libero SoC, timing analysis, floorplanning, digital design, avionics,
-new space, proASIC, RTAX, Zynq UltraScale+, CI/CD.
+ESA, ECSS, VHDL, OBC, COTS, Xilinx, Microsemi, FPGA, MPSoC, SoC, Xilinx Vivado,
+SpaceWire, RMAP, SAVOIR, Airbus D&S, Microsemi Libero SoC, timing analysis,
+floorplanning, digital design, avionics, new space, proASIC, RTAX, Zynq
+UltraScale+, CI/CD.
 
 ## External resources
 
