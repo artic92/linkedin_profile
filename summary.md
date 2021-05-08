@@ -1,12 +1,12 @@
 # Summary
 
-Junior Embedded Engineer with consolidated academic knowledge about embedded systems.
+Recent graduate in Computer Engineering with specialization in Embedded and
+Industrial Systems. A reliable, hardworking individual with excellent knowledge
+of C programming, VLSI design, VHDL and validation techniques. I am currently
+seeking an opportunity to develop new skills and build my career as a Graduate
+Engineer.
 
-Open to doctorate (PhD) opportunities in computer engineering tailored to space environment
-
-
-Research interests:
-- Computer Systems Reliability
-- FPGA Reliabiliy
-- Spacecrafts Computer Systems
-
+My research interests focus on reliability of reprogrammable electronic devices
+and processors in space environments, fault tolerance optimization against
+radiation effects in microelectronic circuits, and fault
+detection-isolation-and-recovery (FDIR) techniques.
