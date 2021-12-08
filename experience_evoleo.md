@@ -71,8 +71,11 @@ GmbH.
 
 My contribution focused on supporting the digital design of the CHICS OBC.
 
-Main activites:
+Main activities:
 
+* architectural design compliant with the SAVOIR specification
+* working with the CCSDS 133.0-B-2 space packet protocol
+* working with PUS services
 * digital design for Xilinx Zynq UltraScale+ MPSoC
 * digital design for Microsemi PolarFire FPGA
 
