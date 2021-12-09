@@ -16,6 +16,8 @@ Sep 2018 - Jan 2019
 
 Activity of research propedeutic to the Master's Degree. Proposed an Intrusion Detection System (IDS) for 6LoWPAN-based IoT networks in collaboration with the Montimage company and in the context of the ANASTACIA EU project.
 
+Keywords: Cybersecurity, Internet of Things, IEEE 802.15.4, 6LoWPAN
+
 Thesis: *Design of an Intrusion Detection System for IoT Security*
 Supervisors: Prof. Valentina Casola, Alessandra De Benedictis, Ph.D, Diego Rivera, Ph.D
 
@@ -49,6 +51,8 @@ Journal: *Internet of Things: Engineering Cyber Physical Human Systems*
 Other authors: Valentina Casola, Alessandra De Benedictis, Diego Rivera, Wissam Mallouli, Edgardo Montes de Oca
 
 Link: <https://www.researchgate.net/publication/334175322_A_security_monitoring_system_for_Internet_of_Things>
+
+Link to journal: <https://www.sciencedirect.com/journal/internet-of-things>
 
 ## Media
 
