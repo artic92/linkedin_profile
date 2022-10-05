@@ -26,7 +26,7 @@ Munich, Germany
 
 ## Period
 
-May 2020 - now
+May 2020 - Dec 2021
 
 ## Description
 
