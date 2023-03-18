@@ -78,3 +78,7 @@ Keywords: Start-up, Public Speaking, Team-leading, Moon Exploration, On-orbit Se
 * MOONPORT Executive Summary and Full Report on ISU Library
 
 <https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=11355>
+
+* ESA talks about ISU
+
+<https://www.esa.int/Education/International_Space_University_ISU>
