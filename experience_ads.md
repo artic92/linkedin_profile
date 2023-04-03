@@ -19,7 +19,7 @@ Manching, Germany
 
 ## Period
 
-May 2022 - now
+May 2022 - Apr 2023
 
 ## Description
 
