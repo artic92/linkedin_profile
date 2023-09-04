@@ -30,19 +30,23 @@ May 2020 - Dec 2021
 
 ## Description
 
+Design, develop, and maintain digital circuits, embedded systems, and
+software specifically engineered to withstand the extreme conditions of space
+while ensuring the reliability and safety of spacecraft and satellite systems.
+
 ### PLATO - PLAnetary Transits and Oscillations of stars
 
 PLATO is the third medium-class (M-class) mission in the Cosmic Vision programme
 by ESA with a budget of approximately **500 million euros**. Its objective is
 double-sided. On the one hand, to find and study extrasolar planetary systems,
 emphasising terrestrial planets in the habitable zone around solar-like stars.
-On the other hand, study and characterise the planet host star, including its
+On the other hand, study and characterise the planet's host star, including its
 age.
 
-My involvement focused on designing and developing the *Ancillary
-Electrical Units (AEU)* for the Service Module.
+My involvement focused on designing and developing the
+*Ancillary Electrical Units (AEU)* for the Service Module.
 
-Main activites:
+Main activities:
 
 * FPGA design & development compliant with ECSS-Q-ST-60-02C
 * VHDL modelling according to ESA ASIC/001 guidelines
@@ -101,7 +105,7 @@ Company official website:
 
 ESA PLAnetary Transits and Oscillations of stars (PLATO) project:
 
-<https://sci.esa.int/web/plato>
+<https://www.esa.int/Science_Exploration/Space_Science/Plato#:~:text=The%20mission,exomoons%20and%20rings%20around%20them.>
 
 What are the Ancillary Electrical Units (AEU)?
 
