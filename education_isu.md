@@ -24,19 +24,23 @@ Passed
 
 ## Activities and societies
 
-Attended with a scholarship jointly awarded by the European Space Agency (ESA) and the Italian Space Agency (ASI).
+Attended with a scholarship jointly awarded by the European Space Agency (ESA)
+and the Italian Space Agency (ASI).
 
 ## Description
 
 Participant in the Space Studies Program 2021 (SSP21) in Strasbourg, France.
 
-The Space Studies Program (SSP) is a nine-week program covering the principal space related fields, both non-technical and technical. It ranges from policy and law, business and management and humanities to life sciences, engineering, physical sciences and space applications.
+The Space Studies Program (SSP) is a nine-week program covering the principal non-technical
+and technical space-related fields. It ranges from policy, law, business, management, and humanities
+to life sciences, engineering, physical sciences, and space applications.
 
 Specialisation in Space Management & Business (MGB).
 
 Team Project (TP)
 
-On-Orbit Mobility and Manipulation Team. MOONPORT: Moon on-orbit Nexus providing orbital rendezvous and transportation. Innovative space transportation system
+On-Orbit Mobility and Manipulation Team. MOONPORT: Moon on-orbit Nexus providing orbital
+rendezvous and transportation. Innovative space transportation system
 to the cis-lunar space. Leading the Science team.
 
 Paper: MOONPORT: A cost-effective transport solution for cislunar space.
@@ -49,9 +53,10 @@ MGB Team Project
 Astrolunch. Business plan, pitch deck and teaser production. In a team of 7.
 Professional visit to the local incubator.
 
-Supervisors: Walter Peeters, Natalia Larea Brito.
+Supervisors: Walter Peeters and Natalia Larea Brito.
 
-Keywords: Start-up, Public Speaking, Team-leading, Moon Exploration, On-orbit Servicing, New Space, Space Tug.
+Keywords: Start-up, Public Speaking, Team-leading, Moon Exploration, On-orbit Servicing,
+New Space, Space Tug.
 
 ## External resources
 
@@ -63,7 +68,7 @@ Keywords: Start-up, Public Speaking, Team-leading, Moon Exploration, On-orbit Se
 
 <https://www.isunet.edu/ssp/>
 
-* Overview of the MGB Departement
+* Overview of the MGB Department
 
 <https://ssp19.isunet.edu/academics/departments/341-space-management-and-business-mgb>
 
