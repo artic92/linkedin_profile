@@ -123,3 +123,37 @@ was able to grasp and examine the deepest psychological aspects and suggest
 solutions to get the best out of the candidate. By conveying the right awareness
 and self-confidence, her role has been vital for the successful outcome of the
 interview.
+
+## Nadia Karrim
+
+Nadia supervised my team during the SSP. She is very meticulous and determined
+in completing the work in a timely manner. Regardless of her duties, Nadia was
+always keen to help and support everyone in the team. By conveying the right mix
+of motivation and discipline, her role has been vital for the group's success.
+
+## Alev Somnez
+
+I was fortunate enough to meet Alev during SSP21 in Strasbourg and then again at
+the Space Tech Expo in Bremen. I attended one of Alev's lectures and was thoroughly
+impressed by his teaching style and hands-on skills.
+
+Alev has a remarkable ability to simplify complex concepts and engage his audience.
+His profound expertise in space technology shines through as he effortlessly captivates
+the attention of his listeners and fosters an environment of active learning.
+
+Based on my interactions with Alev, I highly recommend him for teaching or related
+positions. His passion, knowledge, and approachability make him an exceptional asset.
+Undoubtedly, he will positively impact the learning experiences of those fortunate
+enough to learn from him.
+
+## Gloria Volohonsky
+
+Gloria's role as my teaching assistant during the Executive Space Course at ISU in
+Strasbourg left an indelible impression on me. Her remarkable knowledge and unwavering
+dedication to her students were truly commendable. Gloria's teaching skills were exemplary;
+she had a unique ability to simplify complex concepts and make them accessible to all
+participants. What struck me even more was her incredible patience in guiding us through
+the course. She displayed not only a profound passion for space but also an immense
+capacity for nurturing her students' growth. Beyond her professional role, Gloria's
+strength as a mother was also evident in her caring and supportive demeanour. She truly
+embodies the qualities of a dedicated educator and an exceptional individual.
