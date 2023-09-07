@@ -1,20 +1,10 @@
 # Bio
 
-Young Embedded Engineer striving to commence a career in the space industry. Amazed about everything crosses space: from
-satellites & probes to rockets & spaceships. My passion is to discover each detail concerning the reliability and safety
-of computer hardware & software. Enthusiast about Linux Kernel and hard believer in the power of bash to solve each
-problem.
+As an Embedded Software Engineer at The Exploration Company, I work on developing and testing software for space exploration missions, applying my knowledge of C programming, MISRA-C and unit testing. I enjoy solving challenging problems and ensuring the reliability and safety of the software systems.
 
-Passionate, Motivated, Curious and Ambitious are my most identifying traits. I am very fond of astronomy and physics. I
-love reading books regarding relativistic & quantum mechanics, astrophysics, and psychology. I enjoy doing sport as well.
-I practice jogging but I love to swim and play football also.
+I have a Master's Degree in Computer Engineering from Università degli Studi di Napoli Federico II, and I have completed several specializations and certifications in Interdisciplinary Space Studies, Astronautics, and Advanced English. I have also gained valuable experience as an FPGA Engineer at EVOLEO Technologies, where I designed and developed the Ancillary Electrical Units for the ESA's PLATO mission, following the ECSS-Q-ST-60-02C and ESA ASIC/001 guidelines. My research interests include fault tolerance optimization, radiation effects in microelectronic circuits, and FDIR techniques for space applications. I am passionate about aerospace and I aspire to contribute to the advancement of space exploration and technology.
 
-I would love to conclude with these words:
-
-"Really pay attention to negative feedback and solicit it, particularly from friends. … Hardly anyone does that, and
-it’s incredibly helpful." [E.Musk]
-
-"When something is important enough, you do it even if the odds are not in your favor" [E.Musk]
+I'm always open to connecting with like-minded professionals, so feel free to connect with me if you share my passion for space and embedded systems. Let's collaborate and make meaningful connections!
 
 ## Bio ESC23
 
