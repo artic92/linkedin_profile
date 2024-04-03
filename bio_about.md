@@ -1,10 +1,14 @@
 # Bio
 
-As an Embedded Software Engineer at The Exploration Company, I work on developing and testing software for space exploration missions, applying my knowledge of C programming, MISRA-C and unit testing. I enjoy solving challenging problems and ensuring the reliability and safety of the software systems.
+With a profound expertise in aerospace, aviation, and satellite applications, my engineering journey is fueled by a passion for leveraging technology to navigate the challenges of space and aviation safety. My technical foundation is solidified by extensive experience with C, Python, Linux, VHDL, and real-time operating systems, driving innovations that enhance the reliability and safety of critical systems.
 
-I have a Master's Degree in Computer Engineering from Università degli Studi di Napoli Federico II, and I have completed several specializations and certifications in Interdisciplinary Space Studies, Astronautics, and Advanced English. I have also gained valuable experience as an FPGA Engineer at EVOLEO Technologies, where I designed and developed the Ancillary Electrical Units for the ESA's PLATO mission, following the ECSS-Q-ST-60-02C and ESA ASIC/001 guidelines. My research interests include fault tolerance optimization, radiation effects in microelectronic circuits, and FDIR techniques for space applications. I am passionate about aerospace and I aspire to contribute to the advancement of space exploration and technology.
+Graduating with a Master’s Degree in Computer Engineering from Università degli Studi di Napoli Federico II, my career has spanned impactful projects such as flight control software for the Eurofighter Typhoon, digital design for the ESA PLATO mission, and the Nyx spacecraft. These experiences not only honed my technical skills but also underscored the importance of leadership, teamwork, and a proactive approach to problem-solving.
 
-I'm always open to connecting with like-minded professionals, so feel free to connect with me if you share my passion for space and embedded systems. Let's collaborate and make meaningful connections!
+What drives me is a relentless curiosity about the universe and a commitment to making it safer and more accessible through technology. I'm particularly proud of my contributions to the field, including publications on IoT security and presenting at industry conferences, which reflect my dedication to continuous learning and professional growth.
+
+As I look to the future, I'm excited about connecting with fellow professionals and organizations passionate about aerospace and embedded systems. Whether it's collaborating on innovative projects, sharing insights at conferences, or mentoring the next generation of engineers, I'm eager to contribute to our collective journey toward technological excellence.
+
+Let's explore the endless possibilities of aerospace innovation together. If you're interested in collaborating, exchanging knowledge, or discussing potential opportunities, I'd love to hear from you.
 
 ## Bio ESC23
 
