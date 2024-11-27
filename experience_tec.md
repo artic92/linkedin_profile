@@ -1,56 +1,49 @@
 # Experience: The Exploration Company
 
-## Title
+## Job title
 
-Embedded Software Test and Validation Engineer
+Embedded Software Engineer
 
 ## Company
 
-### The Exploration Company
-
-The Exploration Company aims to democratise space exploration, making
-it affordable, sustainable and open. A global endeavour with European roots.
+The Exploration Company
 
 ## Location
 
-Munich, Germany
+Munich, Bavaria, Germany
 
 ## Period
 
-May 2023 - now
+May 2023 - Nov 2023
 
 ## Description
 
-Nyx is the Europe's first modular, reusable and in-orbit refuelable space orbital vehicle which
-carries cargo and, eventually, humans in Low Earth Orbit (LEO) and Low Lunar Orbit (LLO).
+### Project: spacecraft carrying cargo to Earth orbit
 
-My contribution as part of the Software Team is to participate to the development
-of the flight software for the Nyx spacecraft. Software Team led by Nils Bernhardt.
+* UML architectural and detailed design, MISRA-compliant embedded C development of software that collects data from different sensors and sends commands to actuators. Employed *socat* library.
+* Unit and integration in a Docker environment. System tests on a Zynq UltraScale+ XCZU9EG MPSoC hardware platform. Employed Petalinux for Linux filesystem customisation and Github Actions for static analysis and cross-compilation.
 
-Main activities:
+### Project: control system with Triple Modular Redundancy (TMR)
 
-- design and development of flight software
-- production of unit and integration tests
-- setting up the testing environment with the necessary equipment
+* Object-oriented design and C coding of a framework for simulating flight control laws. Employed the Linux inter-process-comms APIs.
+* Unit and integration tests executed in a Docker environment.
 
-## Impacts
+## Skills
 
-- allowed Mission Possible a timely launch on a Falcon 9 rocket in October 2024
-- allowed successful deployment of Nyx Earth in LEO in TBD 2026
-- allowed successful deployment of Nyx Moon in LLO in TBD 2028
+MISRA, object-oriented design, C, Linux, *socat*, Docker, Petalinux, Zynq UltraScale+ XCZU9EG, Agile, Github, Github Actions.
 
-## Keywords
-
-C/C++, embedded systems, Linux, FPGA, SoC, computer architectures, computer networks,
-electronics, flight software, unit test, integration test, hardware-in-the-loop, software-in-the-loop,
-code review, git, kernels, device drivers, hypervisors, RTOS.
+Linux kernel, device drivers, embedded software, unit test, integration test, system test, hardware-in-the-loop, software-in-the-loop, code review, static analysis, flight software, FPGA, MPSoC, git.
 
 ## External resources
 
-Company's website:
+### Company description
+
+The Exploration Company aims to democratise space exploration, making it affordable, sustainable and open. A global endeavour with European roots.
 
 <https://www.exploration.space/>
 
-Nyx spacecraft:
+### Nyx spacecraft
+
+Nyx is the Europe's first modular, reusable and in-orbit refuelable space orbital vehicle which carries cargo and, eventually, humans in Low Earth Orbit (LEO) and Low Lunar Orbit (LLO).
 
 <https://www.exploration.space/nyx>
