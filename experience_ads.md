@@ -1,21 +1,16 @@
-# Experience: Airbus Defence & Space GmbH
+# Experience: Airbus Defence & Space
 
 ## Title
 
-FCS & FMS Embedded Software Engineer
+Embedded Software Engineer
 
 ## Company
 
-### Airbus Defence & Space GmbH
-
-Airbus Defence and Space is the division of Airbus SE responsible for the
-development and manufacturing of the defence and space products, while also
-providing related services. It is the world's second-largest space company
-after Boeing and one of the top ten defence companies in the world.
+Airbus Defence & Space
 
 ## Location
 
-Manching, Germany
+Manching, Bavaria, Germany
 
 ## Period
 
@@ -23,56 +18,43 @@ May 2022 - Apr 2023
 
 ## Description
 
-Development of DAL Level A on-board software for the Eurofighter Typhoon
-class aircraft.
+### Project: embedded software for military airplane
 
-Eurofighter Typhoon is the world’s most advanced swing-role combat aircraft,
-providing simultaneously deployable Air-to-Air and Air-to-Surface capabilities.
+* ADA development for the DO-178-compliant DAL-A software controlling the flaps of the wings. Design and XML development of black/grey box test cases. Performed requirement reviews, regression tests execution on simulation and HW target. Employed the Modified Condition/Decision (MC/DC) coverage criteria.
+* Manual inspection of intermediate object code, M68K and MIPS assembler to spot potential safety hazards.
 
-Typhoon’s Flight Control Computer (FCC) is a quadruplex-redundant control system
-enabling the first digital fly-by-wire aircraft without mechanical backup controls.
-These computers house the Flight Computer Software (FCS), which controls the control
-surfaces to aerodynamically stabilise the plane and enable the pilot to fly it.
+### Project: GNSS synchronisation & bi-static passive radar
 
-My contribution as part of the Software Team was to participate in all the phases of
-the DAL-A Flight Control Software (FCS) development for the integration of a
-new pressure sensor. Software Team led by Jon Rimmer.
+* Design and VHDL coding of the system searching for the strongest Doppler frequency among a given set of visible satellites.
+* Object-oriented design, embedded C development of Board Support Package (BSP) and Linux device drivers.
+* Design and C coding of tests for the Xilinx Zynq-7010 SoC.
 
-Main activities:
+## Accomplishments
 
-* analysing requirements specification
-* design test cases following the MC/DC coverage
-* execute tests with Mathworks VectorCast
-* tuning test cases to improve coverage metrics
-* static analysis of source and assembler code
+* Successful software integration of the new TIPS pressure sensor.
 
-## Impacts
+## Skills
 
-* successful software integration of the new TIPS pressure sensor
+Object-oriented design, C, ADA, VHDL, Linux, Device Drivers, GHDL, MIPS/M68k Assembler, DO-178/ED-12, unit test, static analysis.
 
-## Keywords
-
-Eurofighter Typhoon, avionics, unit test, ADA, DO-178B/ED-12B, VectorCast, MC/DC, PowerPC, Fortran,
-M68K, assembler, V-model.
+VectorCast, MC/DC, PowerPC, Fortran, V-model.
 
 ## External resources
 
-Company's website:
+### Company description
+
+Airbus Defence and Space is the division of Airbus SE responsible for the development and manufacturing of the defence and space products, while also providing related services. It is the world's second-largest space company after Boeing and one of the top ten defence companies in the world.
 
 <https://www.airbus.com/en/who-we-are>
 
-Typhoon's quadruplex-redundant digital flight control system:
+### The Eurofighter Typhoon
 
-<https://rochesteravionicarchives.co.uk/collection/flight-control/eurofighter-flight-control-computer>
-
-The Eurofighter Typhoon:
+Eurofighter Typhoon is the world’s most advanced swing-role combat aircraft, providing simultaneously deployable Air-to-Air and Air-to-Surface capabilities.
 
 <https://www.eurofighter.com/the-aircraft>
 
-VectorCast description:
+### Eurofighter Typhoon Flight Computer
 
-<https://www.mathworks.com/products/connections/product_detail/vectorcast.html>
+Typhoon’s Flight Control Computer (FCC) is a quadruplex-redundant control system enabling the first digital fly-by-wire aircraft without mechanical backup controls. These computers house the Flight Computer Software (FCS), which controls the control surfaces to aerodynamically stabilise the plane and enable the pilot to fly it.
 
-DO-178C
-
-<https://en.wikipedia.org/wiki/DO-178C>
+<https://rochesteravionicarchives.co.uk/collection/flight-control/eurofighter-flight-control-computer>
