@@ -1,16 +1,16 @@
-# Experience: Universita' degli Studi di Napoli Federico II
+# Experience: University of Naples Federico II
 
 ## Title
 
-Web Developer
+Back-end developer
 
 ## Company
 
-Universita' degli Studi di Napoli Federico II
+University of Naples Federico II
 
 ## Location
 
-Department of Computer Science - DIETI
+Department of Computer Engineering
 
 ## Period
 
@@ -18,24 +18,23 @@ Sep 2014 - Jun 2015
 
 ## Description
 
-Department of Computer Science institutional website.
-Realization of the part managing internships.
+### Project: department institutional website
 
-Main activities:
+* Attendance of meetings with stakeholders.
+* Incremental development in PHP and HTML.
+* Managing contents with Joomla! CMS.
+* Presentation of the work.
 
-* attendance of meetings with stakeholders
-* incremental development in PHP and HTML
-* managing contents with Joomla! CMS
-* presentation of the work
-
-## Impacts
+## Achievements
 
 Received positive feedback from the end users and visitors.
 
-## Keywords
+## Skills
 
 ## External resources
 
-Component of the website I developed
+### Component I developed
+
+Part of the website managing internships.
 
 <https://cs-informatica.dieti.unina.it/index.php/it/servizi-per-gli-studenti/tirocini/aziende-con-offerte-per-tirocini>
