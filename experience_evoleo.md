@@ -1,28 +1,16 @@
-# Experience: Evoleo
+# Experience: Evoleo Technologies
 
 ## Title
 
-Avionics Digital Design Embedded Engineer
+Digital Design Engineer
 
 ## Company
 
-### Evoleo Technologies Lda
-
-EVOLEO Technologies Lda is an ISO 9001 certified Portuguese SME investing in
-skills related to the design of critical and highly complex electronic systems.
-It provides engineering services covering a wide range of needs in electronics
-design, embedded and systems engineering. EVOLEO Technologies Lda embraces five
-areas of activity: Space, Transportation, Energy, Health and Industry.
-
-### Evoleo Technologies GmbH
-
-EVOLEO Technologies GmbH is the German counterpart of the EVOLEO group. Its main
-business focuses on the design and production of electronic components for space
-applications.
+Evoleo Technologies
 
 ## Location
 
-Munich, Germany
+Munich, Bavaria, Germany
 
 ## Period
 
@@ -30,42 +18,60 @@ May 2020 - Dec 2021
 
 ## Description
 
-Design, develop, and maintain digital circuits, embedded systems, and
-software specifically engineered to withstand the extreme conditions of space
-while ensuring the reliability and safety of spacecraft and satellite systems.
+### Project: FPGA image acquisition system
 
-### PLATO - PLAnetary Transits and Oscillations of stars
+* ECSS-Q-ST-60-02C compliant UML architectural and detailed design, VHDL development of an FPGA firmware for controlling a set of cameras for image acquisition. Integrated ECSS-E-ST-50-52C RMAP, SpaceWire, AMBA 3 AHB-Lite IP Cores.
+* Design and VHDL development of unit tests, integration tests and system tests for Microsemi proASIC3e and RTAX-S/SL platforms.
 
-PLATO is the third medium-class (M-class) mission in the Cosmic Vision programme
-by ESA with a budget of approximately **500 million euros**. Its objective is
-double-sided. On the one hand, to find and study extrasolar planetary systems,
-emphasising terrestrial planets in the habitable zone around solar-like stars.
-On the other hand, study and characterise the planet's host star, including its
-age.
+### Project: COTS on-board computer for satellites
 
-My involvement focused on designing and developing the
-*Ancillary Electrical Units (AEU)* for the Service Module.
+* UML architectural and detailed design, VHDL and C development of FPGA firmware and software for the platform controlling the entire satellite. Working with the CCSDS 133.0-B-2 protocol.
+* Design and VHDL development of unit tests, integration tests and system tests for Zynq UltraScale+ XCZU9EG MPSoC and Microsemi PolarFire FPGA.
 
-Main activities:
+## Achievements
 
-* FPGA design & development compliant with ECSS-Q-ST-60-02C
-* VHDL modelling according to ESA ASIC/001 guidelines
-* supported automated FPGA functional verification
-* integration of Microsemi and ESA IP Cores
-* working with SpaceWire RMAP as per ECSS-E-ST-50-52C
-* working with AMBA 3 AHB-Lite specification
-* mentored junior engineers
-* managed code versioning and releasing
-* managed a team of three
-* production of project deliverables
-* production of internal documentation
-* regular meeting and reviews with the customer
-* day-to-day activities planning
-* digital design for Microsemi RTAX-S/SL radiation-tolerant FPGAs
-* digital design for Microsemi proASIC industrial FPGAs
-* unit and system-level testing
+* improved VHDL code quality by introducing industry-standard methodologies and
+  procedures
 
-### CHICS - COTS-based Highly Integrated Computer Systems
+## Skills
+
+C, VHDL, UML, MPSoC, FPGA, firmware, SpaceWire, ECSS, SVN.
+
+ECSS, Microsemi, Xilinx Vivado, SpaceWire, RMAP, SAVOIR, Microsemi Libero SoC, timing analysis, floorplanning, proASIC, RTAX, Zynq
+UltraScale+, CI/CD.
+
+## External resources
+
+### Company description
+
+EVOLEO Technologies GmbH is the German counterpart of the EVOLEO group. Its main
+business focuses on the design and production of electronic components for space
+applications.
+
+<http://evoleotech.com/company/>
+
+### ESA PLATO
+
+ESA’s mission Plato, PLAnetary Transits and Oscillations of stars, will use its 26 cameras to study terrestrial exoplanets in orbits up to the habitable zone of Sun-like stars. The mission will measure the sizes of exoplanets and discover exomoons and rings around them. Plato will also characterise planets' host stars by studying tiny light variations in the starlight it receives.
+
+<https://www.esa.int/Science_Exploration/Space_Science/Plato>
+
+### PLATO Service Module
+
+The Service Module contains all the systems necessary to operate the spacecraft in the designated orbit
+
+<https://sci.esa.int/web/plato/-/42279-spacecraft>
+
+### Ancillary Electrical Units (AEU)
+
+The Ancillary Electronic Units (AEUs) have the following main functions:
+
+* to supply secondary power to the Front End Electronics (FEE) of each camera.
+* to synchronise the various sub-systems: Cameras, AEUs internal power converters and camera heating.
+
+<https://platomission.com/2018/05/15/ancillary-electrical-units-aeu-2/>
+
+### CHICS
 
 CHICS aims to develop an On-Board Computer (OBC) based on COTS and MPSoC
 technology that is easily customisable and adaptable to the needs of different
@@ -73,68 +79,4 @@ missions. The design complies with the ESA SAVOIR reference architecture for
 spacecraft hardware and software. In collaboration with Airbus Defence & Space
 GmbH.
 
-My contribution focused on supporting the digital design of the CHICS OBC.
-
-Main activities:
-
-* architectural design compliant with the SAVOIR specification
-* working with the CCSDS 133.0-B-2 space packet protocol
-* working with PUS services
-* digital design for Xilinx Zynq UltraScale+ MPSoC
-* digital design for Microsemi PolarFire FPGA
-
-## Impacts
-
-* improved VHDL code quality by introducing industry-standard methodologies and
-  procedures
-  * INTERNAL (for my reference): code versioning, CI with Modelsim, automated
-      Modelsim testsuite, GHDL unit tests
-
-## Keywords
-
-ESA, ECSS, VHDL, OBC, COTS, Xilinx, Microsemi, FPGA, MPSoC, SoC, Xilinx Vivado,
-SpaceWire, RMAP, SAVOIR, Airbus D&S, Microsemi Libero SoC, timing analysis,
-floorplanning, digital design, avionics, new space, proASIC, RTAX, Zynq
-UltraScale+, CI/CD.
-
-## External resources
-
-Company official website:
-
-<http://evoleotech.com/company/>
-
-ESA PLAnetary Transits and Oscillations of stars (PLATO) project:
-
-<https://www.esa.int/Science_Exploration/Space_Science/Plato#:~:text=The%20mission,exomoons%20and%20rings%20around%20them.>
-
-What are the Ancillary Electrical Units (AEU)?
-
-<https://platomission.com/2018/05/15/ancillary-electrical-units-aeu-2/>
-
-What is the PLATO Service Module?
-
-<https://sci.esa.int/web/plato/-/42279-spacecraft>
-
-ECSS-Q-ST-60-02C – ASIC and FPGA development (31 July 2008)
-
-<https://ecss.nl/standard/ecss-q-st-60-02c-asic-and-fpga-development/>
-
-ESA IP Cores
-
-<https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Microelectronics/About_ESA_IP_Cores>
-
-ESA Cosmic Vision
-
-<https://en.wikipedia.org/wiki/Cosmic_Vision>
-
-ESA PLATO
-
-<https://sci.esa.int/web/plato>
-
-What is SAVOIR?
-
 <https://savoir.estec.esa.int/SAVOIROutput.htm>
-
-Link to ASP website for PLATO AEU article:
-
-<https://www.asp-equipment.de/infopages/news/startnews/news/asp-equipment-contributes-to-plato-science-mission/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=edb00b57febcba49794b95ffcbddb683>
