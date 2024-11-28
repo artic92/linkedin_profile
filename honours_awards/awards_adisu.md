@@ -4,7 +4,7 @@
 
 University Scholarship
 
-## Place
+## Associated with
 
 University of Naples Federico II
 
@@ -14,9 +14,9 @@ ADISU - Azienda per il Diritto allo Studio Universitario
 
 ## Issue Date
 
-October 2017
-October 2016
+* October 2017
+* October 2016
 
 ## Description
 
-Scholarship addressed to students with distinguished academic and economic merits.
+A scholarship of 3000€ addressed to students with distinguished merits.

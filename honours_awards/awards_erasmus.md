@@ -4,7 +4,7 @@
 
 Erasmus Traineeship Grant
 
-## Place
+## Associated with
 
 University of Naples Federico II
 

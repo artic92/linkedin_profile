@@ -2,7 +2,9 @@
 
 ## Title
 
-Convitto Academy Awards
+High School Scholarship
+
+## Associated with
 
 ## Issuer
 
