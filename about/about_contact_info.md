@@ -28,8 +28,16 @@ Personal
 
 ## Website 2 URL
 
-https://calendly.com/aricc
+<https://calendly.com/aricc>
 
 ## Website 2 type
+
+Personal
+
+## Website 3 URL
+
+<https://github.com/artic92>
+
+## Website 3 type
 
 Personal
