@@ -157,3 +157,11 @@ the course. She displayed not only a profound passion for space but also an imme
 capacity for nurturing her students' growth. Beyond her professional role, Gloria's
 strength as a mother was also evident in her caring and supportive demeanour. She truly
 embodies the qualities of a dedicated educator and an exceptional individual.
+
+## Giuseppe Reccia
+
+I had the pleasure of dining at Chucs during Giuseppe's tenure as Head Chef, and I must say it was an extraordinary culinary experience. Giuseppe's passion for his craft is palpable in every aspect of his work. From the moment I walked into the restaurant, his attention to detail was evident, both in the meticulously crafted dishes and the seamless service.
+
+What truly stood out to me was Giuseppe's clear and engaging communication when he introduced me to his kitchen and team. It was apparent that he not only cared about the food but also valued the collaborative effort of his talented kitchen staff. The taste of his dishes was nothing short of exceptional, and I was surprised to discover his Instagram page, filled with stunning photos of his creations that mirrored the artistry on the plate. Giuseppe's commitment to using genuine ingredients was apparent, elevating every dish to a new level of excellence.
+
+One particular highlight for me was the cavolo nero risotto, which I appreciated immensely. Giuseppe's attention to detail in explaining the dish and its ingredients added an extra layer of enjoyment to the dining experience. Recently, I had the privilege of booking an event at his establishment for my boss, and the quality of service and food left us both astonished. Giuseppe truly goes above and beyond to create memorable dining experiences. I highly recommend his expertise to anyone seeking exceptional cuisine and impeccable service.
