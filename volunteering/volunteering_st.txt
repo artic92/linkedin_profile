@@ -1,7 +1,0 @@
-Organization: ST microelectronics
-Role: Scientific Presenter
-Cause: Science and Tech
-When: Nov 2017 - Nov 2017
-
-Attendance at 'Technology day' fair. 
-I presented the work of my department in a stand set for the university.

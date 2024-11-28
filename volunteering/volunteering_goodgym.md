@@ -1,4 +1,4 @@
-# Volunteering
+# Volunteering: GoodGym
 
 ## Organization
 
@@ -31,10 +31,14 @@ Main activities:
 
 ## External Resources
 
-My GoodGym profile
+### Association description
 
-<https://www.goodgym.org/runners/antonio-riccio>
-
-About GoodGym
+GoodGym is a UK-based charity that combines fitness and community service. Members engage in activities like running, walking, or cycling while performing practical tasks to support their local community and isolated older adults. Tasks include helping with gardening, furniture moving, or supporting community projects. The initiative is open to all fitness levels and emphasizes flexibility, allowing participants to engage as often as they like. Beyond its physical benefits, GoodGym fosters a strong sense of community and well-being, creating an inclusive space to combat loneliness and promote positive impact through volunteering.
 
 <https://www.goodgym.org/about>
+
+### Personal profile
+
+Follow my activity at GoodGym.
+
+<https://www.goodgym.org/runners/antonio-riccio>
