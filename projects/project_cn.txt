@@ -1,4 +1,0 @@
-Matlab Realization of numerical analysis algorithms (MATLAB)
-
-Matlab Realization of some algorithms for numerical analysis such as bisection, resolution for linear systems,
-PageRank, data-fitting, Fourier transform. The algorithms are documented using Matlab.
