@@ -14,7 +14,7 @@ He/Him
 
 ## Headline
 
-Freelance Software Engineer | Embedded | Linux | Device Drivers
+Freelance Embedded Software Engineer | Bringing Innovation with Linux & Open Source
 
 ## Industry
 
