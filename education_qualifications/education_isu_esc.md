@@ -1,6 +1,4 @@
-# Education
-
-ESC23: Executive Studies Course 2023
+# Education: ESC23: Executive Studies Course 2023
 
 ## School
 
@@ -16,7 +14,7 @@ Interdisciplinary Space Studies
 
 ## Period
 
-20 Mar 2023 - 24 Mar 2023
+2023
 
 ## Grade
 
@@ -32,14 +30,14 @@ Participant in the Executive Studies Course 2023 (ESC23) in Strasbourg, France.
 
 The Executive Space Courses (ESC) provides an overview of space and space-related subjects including administration, finance, law, business and management for professionals of diverse backgrounds. The ESC is intended for professionals working in the space sector without a broad space background or professionals currently working outside the space ecosystem that want to develop a better understanding of the rapidly evolving space sector. Executive education can be tailored to specific participants and organizations and is regularly organized by ISU, in person, online or in hybrid mode.
 
-Keywords: Executive, Finance, Law, Business, Management, New Space, Space Economy.
-
 ## External resources
 
-* overview of the ESC Program
+### ESC Program
 
 <https://www.isunet.edu/ssc/>
 
-* group photo description: while visiting the historical centre of Strasbourg
+### group photo 
+
+While visiting the historical centre of Strasbourg.
 
 [ESC23 group photo](media/education_isu_esc23.jpg)
