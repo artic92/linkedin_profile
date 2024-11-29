@@ -6,7 +6,7 @@ GNSS Synchronization & Bi-static Passive Radar (VHDL,C)
 
 ## Period
 
-May 2023 - Jul 2023
+May 2022 - Jul 2022
 
 ## Contributors
 
@@ -38,6 +38,8 @@ Main Activities:
 * Testing activities using Zybo Zynq-7000 SoC boards
 * Project documentation writing
 * Presentation of the advancements to the stakeholders
+
+## Achievements
 
 Thanks to my team contribution, the Aster company reduced times to get a working version of the radar.
 
