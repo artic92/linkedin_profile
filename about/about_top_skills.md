@@ -1,7 +1,9 @@
 # Top skills
 
+In order of descending importance:
+
 * C
-* C++
+* Linux
 * Embedded Software
 * Linux Device Driver
-* Linux
+* C++
