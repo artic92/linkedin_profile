@@ -10,10 +10,10 @@ Munich, Bavaria, Germany
 
 ## Period
 
-Jan 2024 - now
+Dec 2023 - Dec 2024
 
 ## Description
 
-I'm spending time with my family, including my new baby boy! :)
+Took time away from professional work to focus on early parenthood and family responsibilities. This period allowed me to develop greater resilience, time management, and empathy—qualities I bring back with me into my professional career.
 
 ## External resources
