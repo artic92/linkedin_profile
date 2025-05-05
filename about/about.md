@@ -14,7 +14,7 @@ He/Him
 
 ## Headline
 
-Freelance Embedded Software Engineer | Bringing Innovation with Linux & Open Source
+Embedded Software Engineer | Bringing Innovation with Linux & Open Source
 
 ## Industry
 
