@@ -1,8 +1,8 @@
-# Experience: medical company
+# Experience: Freelancer
 
 ## Title
 
-Embedded Software Engineer – System Integration & Validation (Medical Devices)
+Embedded Software Engineer – System Integration & Validation
 
 ## Company
 
