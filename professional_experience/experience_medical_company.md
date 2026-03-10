@@ -20,8 +20,8 @@ Jul 2025 - now
 
 ### Project: embedded software integration & validation for medical device
 
-* Embedded software integration and validation within an IEC 62304 Class C context. Working with Zynq UltraScale+ SoCs (APU running QNX, RPU running RTOS) and Spartan FPGAs, including MicroBlaze CPUs. Maintaining software and configuration consistency across 7 parallel prototypes and ensuring correct behaviour after updates, configuration changes, or partial failures.
-* Design and PowerShell development of automation scripts to support and automate error-prone deployment workflows. Unit and integration in a Docker-based environment. System tests on real device.
+* IEC 62304 Class C compliant embedded software integration and validation. Working with Zynq UltraScale+ SoCs (APU running QNX, RPU running RTOS) and Spartan FPGAs, including MicroBlaze CPUs. Maintaining software and configuration consistency across 7 parallel prototypes and ensuring correct behaviour after updates, configuration changes, or partial failures.
+* Design and PowerShell development of automation scripts to support and automate deployment workflows. Unit tests in a Docker-based environment. Integration tests on real device.
 * Black box system-level tests to ensure traceability and compliance with internal verification processes. Investigated failed test cases by collecting data for root-cause analysis and generating defect reports with reproduction steps, logs, and relevant embedded debugging information.
 
 ## Accomplishments
@@ -32,9 +32,9 @@ Jul 2025 - now
 
 ## Skills
 
-Embedded Systems, Zynq UltraScale+, QNX, RTOS, FPGA, MicroBlaze, System Integration, Software Deployment, Automation (PowerShell), Docker, Version Control (Git).
+IEC 62304, Zynq UltraScale+ XCZU9EG, QNX, RTOS, Spartan-3E XC3S1200E, FPGA, Xilinx, MicroBlaze, PowerShell, Docker, V-model, System Integration.
 
-Verification & Validation, Configuration Management, Software Traceability, Defect Analysis, IEC 62304 (Class C Context), Regulated Environments, V-model.
+Verification & Validation, Configuration Management, Software Traceability, Defect Analysis, Embedded Systems, Regulated Environments, Automation, Version Control, Git.
 
 ## External resources
 
