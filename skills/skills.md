@@ -16,7 +16,7 @@ Skills are ordered in descending importance.
 * Microcontrollers
 * System on a Chip (SoC)
 * Internet of Things (IoT)
-* MISRA
+* MISRA C
 * Object-oriented design
 * Object-oriented Programming (OOP)
 * Yocto project
